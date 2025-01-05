@@ -267,7 +267,7 @@ const definition = {
       .withDescription('Number of Digits to the left of the Decimal Point'),
   ],
               
-    ota: ota.zigbeeOTA,
+  ota: true,
 
 };
 
